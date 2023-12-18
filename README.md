@@ -27,7 +27,7 @@ I'm so excited to apply these new skills in crafting innovative digital experien
 
 - 📫 How to reach me **paisdefaria.joana@gmail.com**
 
-- 📄 See my projects https://troopl.com/pfjoana (https://troopl.com/pfjoana)
+- 📄 See my projects https://troopl.com/pfjoana
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
