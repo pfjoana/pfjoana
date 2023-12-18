@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Joana Faria</h1>
-<h3 align="center">A passionate frontend / fullstack web developer from Portugal</h3>
+<h3 align="center">A passionate Web Developer from Portugal</h3>
+
+<p>After surviving the relentless pursuit of angry gulls during my PhD journey 😄, I made a career switch!🚀 I immersed myself in UX/UI Design, Front-end Web Development, and recently completed Le Wagon's Web Development bootcamp - 9 intensive weeks filled with hands-on daily pair-programming challenges and projects, culminating with the creation of a fully functional web app from scratch in the last 2 weeks. I had the pleasure of working on both the Back and Front-end. 
+I'm so excited to apply these new skills in crafting innovative digital experiences and keep growing as a developer!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfjoana&label=Profile%20views&color=0e75b6&style=flat" alt="pfjoana" /> </p>
 
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **paisdefaria.joana@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/paisdefariajoana/](www.linkedin.com/in/paisdefariajoana/)
+- 📄 See my projects https://troopl.com/pfjoana (https://troopl.com/pfjoana)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
