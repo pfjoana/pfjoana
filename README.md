@@ -23,7 +23,7 @@ I'm so excited to apply these new skills in crafting innovative digital experien
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pfjoana" alt="pfjoana" /></a> </p> -->
 
-- 🌱 I’m currently learning **React.js**
+<!-- - 🌱 I’m currently learning **React.js**  -->
 
 - 📫 How to reach me **paisdefaria.joana@gmail.com**
 
